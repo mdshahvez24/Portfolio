@@ -1,0 +1,15 @@
+[
+  {
+    "id": 1,
+    "role": "Frontend Developer role ",
+    "organisation": " Cetpa Infotech Private Limited.",
+    "startDate": "Jan, 2024",
+    "endDate": "To May ,2024",
+    "location": "Sector 16,  Noida (UP)",
+    "experiences": [
+      "Worked on Layout design using Html css Javascript ",
+      "Worked with Different Libraries in React.js "
+    ],
+    "imageSrc": "company/google.png"
+  }
+]
