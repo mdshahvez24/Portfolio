@@ -1,9 +1,9 @@
 import React from 'react';
 import tools from "./data/tools.json";
 
-import vscode from '../assets/Tools/VS.png'
-import github from '../assets/Tools/Github.png'
-import postman from '../assets/Tools/Postman.png'
+import vscode from '../assets/tools/VS.png'
+import github from '../assets/tools/Github.png'
+import postman from '../assets/tools/Postman.png'
 
 const toolsImages = {
   Postman: postman,
